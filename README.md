@@ -2,6 +2,6 @@
 
 ```
 npm install
-npm webpack
-npm serve
+npm run webpack
+npm run serve
 ```
