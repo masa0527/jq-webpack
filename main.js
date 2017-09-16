@@ -8,7 +8,7 @@ $(() => {
         $msg.fadeOut("slow", () => {
             $msg.text("(°ε°((⊂(`ω´∩)ﾄﾞｶｯ " +
                 moment().format("YYYY-MM-DD HH:mm:ss"))
-                .css("color", "red")
+                .css("color", "#03a9f4")
                 .fadeIn("slow");
         });
     });

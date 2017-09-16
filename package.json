@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "webpack": "webpack",
+    "webpack": "webpack -w",
     "serve": "webpack-dev-server"
   },
   "author": "",
